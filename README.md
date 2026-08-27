@@ -1,7 +1,7 @@
 # applemusic-mcp
 
 一个很小的 Apple Music MCP server：HTTP JSON-RPC 单文件实现，接入 Claude Code 等支持
-`"type": "http"` 的 MCP 客户端后，AI 助手就能帮你搜歌、"点歌"（吐出一个卡片标记给你自己的
+`"type": "http"` 的 MCP 客户端后，AI 就能帮你搜歌、"点歌"（吐出一个卡片标记给你自己的
 聊天前端渲染）、在你真实的 Apple Music 资料库里建歌单加歌，并自动维护一个"点过的歌"历史歌单。
 
 **English**: A tiny single-file Apple Music MCP server (HTTP JSON-RPC). Wire it into Claude Code
